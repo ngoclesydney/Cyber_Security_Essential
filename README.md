@@ -6,6 +6,6 @@ Cyber Security Essentials The subject allows students to learn cyber-attack tech
 
 ## Lab 3: Crypto SSL - X509
 
-## Lab 4:
+## Lab 4: Dirty COW attacks
 
 ## Lab 5:
