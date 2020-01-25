@@ -11,3 +11,9 @@ Cyber Security Essentials The subject allows students to learn cyber-attack tech
 ## Lab 5: TCP Based Attacks
 
 ## Lab 6: TCP Based Attacks Continued
+
+## Lab 7: JUNOS and Security Policies
+
+## Lab 8: JUNOS Firewall User Authentication
+
+## Lab 9: JUNOS Intrusion Detection and Prevention
