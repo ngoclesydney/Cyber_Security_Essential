@@ -4,7 +4,7 @@ Cyber Security Essentials The subject allows students to learn cyber-attack tech
 
 ## Lab 2: Pharming Attacks
 
-## Lab 3:
+## Lab 3: Crypto SSL - X509
 
 ## Lab 4:
 
